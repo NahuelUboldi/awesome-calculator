@@ -1,0 +1,8 @@
+.container {
+ height: 100vh;
+}
+.cuadrado {
+ width: 100px;
+ height: 100px;
+ outline: solid 1px red;
+}
